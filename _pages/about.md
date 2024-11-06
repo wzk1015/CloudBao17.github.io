@@ -13,7 +13,7 @@ Cloud Bao(Chenxi, 鲍晨熙)
 ======
 AI music researcher, film/game composer, interactive music designer, music software engineer, indie musician，double bass/electric bass player
 
-my bilibili homepage is [Cloud-v-](https://space.bilibili.com/220834048?spm_id_from=333.1007.0.0)
+My bilibili homepage is [Cloud-v-](https://space.bilibili.com/220834048)
 
 I completed my undergraduate studies at Beijing University of Aeronautics and Astronautics, specializing in Automation and Information Technology, where my primary research interests were signal processing and intelligent hardware design. I then pursued a master's degree at the Reid School of Music, University of Edinburgh, specializing in Sound Design. My studies there encompassed composition, film scoring, interactive music design, and audio programming. During this period, I encountered AI music, an emerging research field that has piqued the curiosity and confusion of many, including myself. One significant challenge I have identified in this field is the lack of effective communication between AI engineers and musicians. From my perspective, meaningful research and valuable products in this field can only result from collaborative efforts, not from working in isolation. Therefore, I have been dedicated to bridging this gap by leveraging my connections to foster joint research and exploration efforts.
 
